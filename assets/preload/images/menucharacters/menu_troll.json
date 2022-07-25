@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "troll menu",
+	"position": [
+		-7,
+		195
+	],
+	"scale": 0.5,
+	"image": "menu_troll",
+	"flipX": false
+}

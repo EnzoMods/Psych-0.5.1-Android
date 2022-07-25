@@ -1,0 +1,11 @@
+{
+	"idle_anim": "derpina menu",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		376,
+		207
+	],
+	"scale": 0.4,
+	"flipX": false,
+	"image": "menu_derpina"
+}

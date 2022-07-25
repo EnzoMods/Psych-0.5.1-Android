@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "derp menu",
+	"idle_anim": "derp menu",
+	"position": [
+		-160,
+		-16
+	],
+	"scale": 0.45,
+	"image": "menu_derp",
+	"flipX": false
+}
