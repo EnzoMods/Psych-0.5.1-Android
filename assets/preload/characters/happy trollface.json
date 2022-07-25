@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				48,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "trollface happy idle"
+		},
+		{
+			"offsets": [
+				27,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "trollface happy down"
+		},
+		{
+			"offsets": [
+				-18,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "trollface happy right"
+		},
+		{
+			"offsets": [
+				190,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "trollface happy up"
+		},
+		{
+			"offsets": [
+				256,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "trollface happy left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/happy trollface",
+	"position": [
+		60,
+		20
+	],
+	"healthicon": "trollface",
+	"flip_x": false,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		-200,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

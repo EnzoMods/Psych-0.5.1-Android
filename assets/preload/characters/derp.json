@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-95,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "derp idle"
+		},
+		{
+			"offsets": [
+				63,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "derp left"
+		},
+		{
+			"offsets": [
+				-7,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "derp down"
+		},
+		{
+			"offsets": [
+				-58,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "derp up"
+		},
+		{
+			"offsets": [
+				-93,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "derp right"
+		},
+		{
+			"offsets": [
+				9,
+				313
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "derp MISS up"
+		},
+		{
+			"offsets": [
+				94,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "derp MISS left"
+		},
+		{
+			"offsets": [
+				70,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "derp MISS down"
+		},
+		{
+			"offsets": [
+				-101,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "derp MISS right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/derp",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "derp",
+	"flip_x": true,
+	"healthbar_colors": [
+		121,
+		137,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
